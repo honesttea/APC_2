@@ -9,4 +9,7 @@
     <li><strong>simulado1</strong> - Um problema de struct que recebe dados e armazena em vetor, trabalha com ponteiro e funções.</li>
     <li><strong>simulado2</strong> - Um problema de struct que recebe dados e armazena em vetor, trabalha com ponteiro e funções.</li>
     <li><strong>exerciciostruct de 0-6</strong> - Problemas variados de vetores, funções e ponteiros.</li>
+    <li><strong>arquivo1</strong> - Criar um arquivo com o nome do usuário e gravar as vogais de seu nome no arquivo</li>
+    <li><strong>arquivo2</strong> - Abrir dois arquivos com nomes fornecidos pelo usuário e verificar qual possui mais linhas.</li>
+    <li><strong>arquivo3</strong> - Abrir o arquivo determinado e verificar quantas pessoas possuem nome começado pela letra 'B' </li>
     </ul>
