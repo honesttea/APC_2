@@ -15,4 +15,5 @@
     <li><strong>alocacao1</strong> - Faça um programa que faça a união de dois vetores com alocação dinamica.</li>
     <li><strong>alocacao2</strong> - Faça um programa que faça a intersceção de dois vetores com alocação dinamica.</li>
     <li><strong>alocacao3</strong> - Alocação dinamica simples.</li>
+    <li><strong>listaarquivo.c de 1-12</strong> - Problemas variados de manipulação de arquivos.</li>
     </ul>
