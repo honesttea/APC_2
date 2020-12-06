@@ -1,11 +1,15 @@
 # APC_2
 <h2>Problemas:</h2>
     <ul>
-    <li><strong>prova1</strong> - Faça uma struct que contenha salário, carga horária e matricula. Cadastre o funcionário Jack através de uma função com ponteiro e imprima o resultado.</li>
-    <li><strong>prova2</strong> - Faça um programa que desmontre que a qualquer número a partir de 4 pode ser obtido com a soma de números primos.</li>
-    <li><strong>prova3</strong> - Faça um programa que posicione o valor de X e Y num plano cartesiano e imprima o quadrante ou se a coordenada passa por um eixo.</li>
-    <li><strong>prova4</strong> - Faça um programa que imprima os números primos do intervalo derterminado.</li>
-    <li><strong>prova5</strong> - Um problema de struct que recebe dados e armazena em vetor, trabalha com ponteiro e funções.</li>
+    <li><strong>prova1_1</strong> - Faça uma struct que contenha salário, carga horária e matricula. Cadastre o funcionário Jack através de uma função com ponteiro e imprima o resultado.</li>
+    <li><strong>prova1_2</strong> - Faça um programa que desmontre que a qualquer número a partir de 4 pode ser obtido com a soma de números primos.</li>
+    <li><strong>prova1_3</strong> - Faça um programa que posicione o valor de X e Y num plano cartesiano e imprima o quadrante ou se a coordenada passa por um eixo.</li>
+    <li><strong>prova1_4</strong> - Faça um programa que imprima os números primos do intervalo derterminado.</li>
+    <li><strong>prova1_5</strong> - Um problema de struct que recebe dados e armazena em vetor, trabalha com ponteiro e funções.</li>
+    <li><strong>prova2_1</strong> - Receber do usuário 2 arquivos e verficar se são iguais.</li>
+    <li><strong>prova2_2</strong> - Receber do usuário um arquivo e uma palavra e verificar se a palavra está presente no arquivo.</li>
+    <li><strong>prova2_3</strong> - Problema de alocação dinâmica com struct. </li>
+    <li><strong>prova1_4</strong> - Problema de struct e comparações. </li>
     <li><strong>simulado1</strong> - Um problema de struct que recebe dados e armazena em vetor, trabalha com ponteiro e funções.</li>
     <li><strong>simulado2</strong> - Um problema de struct que recebe dados e armazena em vetor, trabalha com ponteiro e funções.</li>
     <li><strong>exerciciostruct de 0-6</strong> - Problemas variados de vetores, funções e ponteiros.</li>
