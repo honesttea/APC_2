@@ -28,5 +28,7 @@
     <li><strong>alocacao2</strong> - Faça um programa que faça a intersceção de dois vetores com alocação dinamica.</li>
     <li><strong>alocacao3</strong> - Alocação dinamica simples.</li>
     <li><strong>listaarquivo de 1-12</strong> - Problemas variados de manipulação de arquivos.</li>
+    <li><strong>listastring1 de a-e</strong> - Problemas variados de manipulação de strings.</li>
+    <li><strong>listastring2 de a-f</strong> - Problemas variados de manipulação de strings.</li>
     </ul>
 </body>
