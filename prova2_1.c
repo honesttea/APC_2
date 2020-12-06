@@ -17,7 +17,17 @@ int main(){
     fgets(stream,10000,stdin);
     stream[strlen(stream)-1] = '\0';
     arq2 = fopen(stream, "r");
-
+    
+    if(arq1==NULL){
+        printf("Falha na abertura do arquivo 1");
+        return 0;
+    }
+    
+    if(arq2==NULL){
+        printf("Falha na abertura do arquivo 2");
+        return 0;
+    }
+    
     while(fgets(stream, 10000, arq1)!=NULL){
         fgets(stream2, 10000, arq2);
         if(strcmp(stream,stream2)!=0){
